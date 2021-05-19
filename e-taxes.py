@@ -10,14 +10,14 @@ import sys, os, time, csv
 
 LOGIN_URL = 'https://login.e-taxes.gov.az/login/'
 
-print('[+] İstifadəçi kodunu daxil edin:')
+print('[+] Введите код пользователя:')
 USERNAME = input()
 
-print('[+] Parolu daxil edin:')
+print('[+] Введите пароль:')
 PASSWORD2 = input()
 
-print('[+] Şifrəni daxil edin:')
-PASSWORD2 = input()
+print('[+] Введите шифр:')
+PASSWORD1 = input()
 
 
 ''' CMD '''
